@@ -14,7 +14,7 @@ Follow these steps to get started:
 
 + Clone the repository
 
-+ Run the script: 'python3 your_choosen_script.py'
++ Run the script: ' python3 your_choosen_script.py '
 
     + The script will navigate to the Hemköp offers page, scroll to load all the offers, and then scrape the relevant information. The scraped data will be saved in a JSON file named hemkop_erbjudanden.json.
 
