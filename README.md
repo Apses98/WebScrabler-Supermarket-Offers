@@ -1,14 +1,14 @@
-#Hemköp Offers Scraper
+# Hemköp Offers Scraper
 
 This repository contains Python scripts that scrapes product offers from the several websites. 
 The script utilizes Selenium for web automation and BeautifulSoup for HTML parsing. 
 The scraped data is then saved as a JSON file.
 
-###Prerequisites
+### Prerequisites
 
 First time running the script, it will check to ensure that you have the required Python libraries installed. 
 
-###Getting Started
+### Getting Started
 
 Follow these steps to get started:
 
@@ -18,7 +18,7 @@ Follow these steps to get started:
 
     + The script will navigate to the Hemköp offers page, scroll to load all the offers, and then scrape the relevant information. The scraped data will be saved in a JSON file named hemkop_erbjudanden.json.
 
-###Notes
+### Notes
 
 The script uses the Chrome web browser for automation. Make sure you have the ChromeDriver executable in your system's PATH or update the webdriver.Chrome() line in the script with the correct path to the ChromeDriver executable.
 
