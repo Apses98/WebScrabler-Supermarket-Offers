@@ -9,6 +9,7 @@ def check_libraries():
 		'sys',
 		'bs4',
 		'selenium',
+		'datetime',
 	]
 
 	missing_libraries = []
@@ -63,6 +64,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 # Put URL of your prefered ICA store here
 # Make sure you pick the "erbjudanden" webpage
@@ -100,7 +102,14 @@ if status:
 	offer_cards = soup.find_all('article', class_='offer-card')
 
 	offers_data = []
-    
+
+	info_block =	{
+			"StoreName": "ICA",
+			"TimeDate": datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 
+			"StoreUrl": url
+			}
+	offers_data.append(info_block)
+	
 	for card in offer_cards:
 		title = card.find('p', class_='offer-card__title').get_text(strip=True)
 		brand = card['data-promotion-brand']
@@ -146,8 +155,12 @@ if status:
         
 		offers_data.append(offer_data)
         
+        if len(sys.argv) > 1:
+		path = sys.argv[1] + '/ICA_offers.json'
+	else:
+		path = 'ICA_offers.json'
 	# Write the data as jason to file 
-	with open('ICA_offers.json', 'w') as json_file:
+	with open(path, 'w') as json_file:
 		json.dump(offers_data, json_file, indent=2, ensure_ascii=False)
             
 	#debugg

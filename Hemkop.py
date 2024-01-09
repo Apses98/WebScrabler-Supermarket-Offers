@@ -10,6 +10,7 @@ def check_libraries():
 		'sys',
 		'bs4',
 		'selenium',
+		'datetime',
 	]
 
 	missing_libraries = []
@@ -67,6 +68,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import StaleElementReferenceException, NoSuchElementException, ElementClickInterceptedException, TimeoutException
+from datetime import datetime
 
 		
 # URL of your Hemköp page
@@ -102,7 +104,7 @@ if status:
 	
 
 	try:
-		print('Trying to press the reject cookies button.')
+		#print('Trying to press the reject cookies button.')
 		time.sleep(1)
 		wait.until(EC.element_to_be_clickable(cookies_message_reject_button_locator))
 		
@@ -123,7 +125,7 @@ if status:
 	
 	# Scroll until all offers are loaded // Scroll to the bottom 20 times
 	for i in range(20):
-		print('Scrolling to the bottom')
+		#print('Scrolling to the bottom')
 		driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")	
 		time.sleep(2)
 		
@@ -135,7 +137,14 @@ if status:
 	offer_cards = soup.find_all('div', class_='sc-878cc7d7-0 jlkWRE')
 	
 	offers_data = []
-
+	
+	info_block =	{
+			"StoreName": "Hemköp",
+			"TimeDate": datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 
+			"StoreUrl": url
+			}
+	offers_data.append(info_block)
+	
 	for card in offer_cards:
 		
 		# product title / name
@@ -187,7 +196,7 @@ if status:
 		
 		offers_data.append(offer_data)
 		
-	print('Creating JSON file')
+	#print('Creating JSON file')
 	# Write the data as jason to file 
 	if len(sys.argv) > 1:
 		path = sys.argv[1] + '/hemkop_erbjudanden.json'
@@ -196,7 +205,7 @@ if status:
 	with open(path, 'w') as json_file:
 		json.dump(offers_data, json_file, indent=2, ensure_ascii=False)
 		
-	print('JSON file saved!')
+	print("Data saved successfully to hemkop_erbjudanden.json file")
 	
-print('Driver is exiting')
+#print('Driver is exiting')
 driver.quit()
