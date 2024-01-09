@@ -1,7 +1,7 @@
 [
   {
     "StoreName": "Hemköp",
-    "TimeDate": "2024-01-09 16:50:06",
+    "TimeDate": "2024-01-09 18:17:32",
     "StoreUrl": "https://www.hemkop.se/erbjudanden"
   },
   {
@@ -531,6 +531,12 @@
     "Brand": "",
     "Price": "42,95   /st",
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07310240064377_C1N1_s01"
+  },
+  {
+    "Title": "Solrosolja",
+    "Brand": "",
+    "Price": "29,95   /st",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07311043000531_C1N1_s01"
   },
   {
     "Title": "Honung Flytande",
@@ -1581,6 +1587,12 @@
     "Brand": "",
     "Price": "2 för 55  ",
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083405679_C1L1_s02"
+  },
+  {
+    "Title": "Basilika Finhackad Fryst",
+    "Brand": "",
+    "Price": "2 för 22  ",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083490538_C1L1_s01"
   },
   {
     "Title": "Broccoliris Finhackad Fryst",

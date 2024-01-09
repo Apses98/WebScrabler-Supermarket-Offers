@@ -155,16 +155,16 @@ if status:
         
 		offers_data.append(offer_data)
         
-        if len(sys.argv) > 1:
-		path = sys.argv[1] + '/ICA_offers.json'
+	if len(sys.argv) > 1:
+		path = sys.argv[1] + '/ICA.json'
 	else:
-		path = 'ICA_offers.json'
+		path = 'ICA.json'
 	# Write the data as jason to file 
 	with open(path, 'w') as json_file:
 		json.dump(offers_data, json_file, indent=2, ensure_ascii=False)
             
 	#debugg
-	print("Data saved successfully to ICA_offers.json file")
+	print(f"Data saved successfully to {path} file")
 
 else:
 	print("Error: Failed to retrieve the webpage.")

@@ -138,7 +138,7 @@ if status:
 	
 	offers_data = []
 	
-	info_block =	{
+	info_block = {
 			"StoreName": "Hemköp",
 			"TimeDate": datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 
 			"StoreUrl": url
@@ -199,13 +199,13 @@ if status:
 	#print('Creating JSON file')
 	# Write the data as jason to file 
 	if len(sys.argv) > 1:
-		path = sys.argv[1] + '/hemkop_erbjudanden.json'
+		path = sys.argv[1] + '/HEMKOP.json'
 	else:
-		path = 'hemkop_erbjudanden.json'
+		path = 'HEMKOP.json'
 	with open(path, 'w') as json_file:
 		json.dump(offers_data, json_file, indent=2, ensure_ascii=False)
 		
-	print("Data saved successfully to hemkop_erbjudanden.json file")
+	print(f"Data saved successfully to {path} file")
 	
 #print('Driver is exiting')
 driver.quit()

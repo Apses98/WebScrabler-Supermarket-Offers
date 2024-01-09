@@ -136,7 +136,7 @@ def remove_blocking_element():
 				pass
 		click_intercepted = False
 	else:
-		#print("No blocking element present!")
+		print("No blocking element present!")
 
 def click_loadMore_button():
 	global click_intercepted
@@ -156,7 +156,7 @@ def click_loadMore_button():
 		time.sleep(1)
 	except (StaleElementReferenceException, NoSuchElementException, TimeoutException) as e:
 		# Handle Exception
-		#print('Error!! \n')
+		print('Error!! \n')
 		#print(e)
 		
 	except (ElementClickInterceptedException) as e:
@@ -278,6 +278,7 @@ if status:
 		time.sleep(1)
 	except (StaleElementReferenceException, NoSuchElementException, ElementClickInterceptedException, TimeoutException) as e:
 		#print('Success, the button was not present.\n')
+		pass
 
 
 	driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -351,13 +352,13 @@ if status:
 	print('Creating JSON file')
 	# Write the data as jason to file 
 	if len(sys.argv) > 1:
-		path = sys.argv[1] + '/willys_erbjudande.json'
+		path = sys.argv[1] + '/WILLIYS.json'
 	else:
-		path = 'willys_erbjudande.json'
+		path = 'WILLIYS.json'
 	with open(path, 'w') as json_file:
 		json.dump(offers_data, json_file, indent=2, ensure_ascii=False)
 		
-	print("Data saved successfully to willys_erbjudande.json file")
+	print(f"Data saved successfully to {path} file")
 	
 #print('Driver is exiting')
 driver.quit()
