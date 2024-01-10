@@ -1,7 +1,7 @@
 [
   {
     "StoreName": "Williys",
-    "TimeDate": "2024-01-09 18:51:29",
+    "TimeDate": "2024-01-10 08:30:54",
     "StoreUrl": "https://www.willys.se/erbjudanden/ehandel"
   },
   {
@@ -293,10 +293,10 @@
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07311310031039_C1N1_s02"
   },
   {
-    "Title": "Krispig Müsli Tranbär Dinkelpuff",
+    "Title": "Krispig Müsli Mandel Aprikos",
     "Brand": "Risenta 450g",
     "Price": "Spara 5,60 kr/st 35 90/st",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07311311025167_C1N1_s01"
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07311311025143_C1N1_s01"
   },
   {
     "Title": "Green Tea Lemon",
@@ -319,7 +319,7 @@
   {
     "Title": "Ananas Cuts Taco",
     "Brand": "Dole 3p/227g",
-    "Price": "Spara 7,00 kr/st 36 90/st",
+    "Price": "Spara 9,00 kr/st 36 90/st",
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/00038900016258_C1L1_s01"
   },
   {
@@ -575,28 +575,40 @@
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083468391_C1N1_s01"
   },
   {
+    "Title": "Matlåda F&g 0,25l",
+    "Brand": "Curver 3p",
+    "Price": "2 för 42 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/03253928557089_C1L1_s01"
+  },
+  {
     "Title": "Rundstycke",
     "Brand": "Dahls Bageri 70g",
     "Price": "4 för 20 00",
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07350029733209_C1C0_s01"
   },
   {
+    "Title": "Duokaka Sylt Och Vanilj",
+    "Brand": "Eldorado 176g",
+    "Price": "2 för 25 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083446733_C1N1_s02"
+  },
+  {
+    "Title": "Matlåda Fresh&go 1l",
+    "Brand": "Curver 1st",
+    "Price": "2 för 38 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/03253920554093_C1L1_s01"
+  },
+  {
+    "Title": "Snabbnudlar Svamp",
+    "Brand": "Eldorado 85g",
+    "Price": "10 för 45 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083450488_C1N1_s01"
+  },
+  {
     "Title": "Salvi Halstablett",
     "Brand": "Läkerol 2p/50g",
     "Price": "2 för 25 00",
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07310350118823_C1N1_s02"
-  },
-  {
-    "Title": "Almond Crunch Nut Bar",
-    "Brand": "Nick´s 40g",
-    "Price": "2 för 28 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07350104401115_C1N1_s02"
-  },
-  {
-    "Title": "Potatis Smått&gott Klass 1",
-    "Brand": "Garant 900g",
-    "Price": "2 för 40 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07311042010081_C1L1_s01"
   },
   {
     "Title": "Lime Klass 1",
@@ -621,72 +633,6 @@
     "Brand": "ca375g",
     "Price": "2 för 20 00",
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07311042000358_C1N0_s01"
-  },
-  {
-    "Title": "Matlåda Fresh&go 1l",
-    "Brand": "Curver 1st",
-    "Price": "2 för 38 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/03253920554093_C1L1_s01"
-  },
-  {
-    "Title": "Croissant",
-    "Brand": "Dafgård 55g",
-    "Price": "4 för 26 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07310960788058_C1N0_s01"
-  },
-  {
-    "Title": "Vaniljmunk",
-    "Brand": "Dafgård 63g",
-    "Price": "4 för 30 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07310960722953_C1C0_s01"
-  },
-  {
-    "Title": "Premium 3 Protection 6-10kg Tejpblöjor",
-    "Brand": "Pampers 46p",
-    "Price": "Handla för 300 kr 109 00/st",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/08006540704615_C1N1_s01"
-  },
-  {
-    "Title": "Paté Kyckling Katt",
-    "Brand": "Stella 100g",
-    "Price": "2 för 15 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07350055000078_C1N1_s01"
-  },
-  {
-    "Title": "Makrillfilé Varmrökt Svart Peppar",
-    "Brand": "Falkenberg 180g",
-    "Price": "Spara 7,00 kr/st 32 90/st",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083493287_C1N1_s01"
-  },
-  {
-    "Title": "Matjessill Filéer i Bitar",
-    "Brand": "Eldorado 200/125g",
-    "Price": "3 för 35 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083492983_C1N1_s01"
-  },
-  {
-    "Title": "Baby Dry 3 6-10kg Tejpblöjor",
-    "Brand": "Pampers 54p",
-    "Price": "Handla för 300 kr 105 00/st",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/08006540466575_C1N1_s01"
-  },
-  {
-    "Title": "Havredryck Vegetabilisk 1,5%",
-    "Brand": "Garant 1l",
-    "Price": "6 för 85 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083483981_C1N1_s02"
-  },
-  {
-    "Title": "Bomullspads",
-    "Brand": "Mevolution 80st",
-    "Price": "2 för 25 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083489228_C1N1_s02"
-  },
-  {
-    "Title": "Granola Kakao & Hallon",
-    "Brand": "Färsking 375g",
-    "Price": "Spara 13,00 kr/st 29 90/st",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07350099111136_C1N1_s01"
   },
   {
     "Title": "Mint Sugar Free Halstabletter",
@@ -719,28 +665,22 @@
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07310511257507_C1N1_s01"
   },
   {
-    "Title": "Citron Klass 1",
-    "Brand": "ca150g",
-    "Price": "2 för 12 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07311042000099_C1N0_s01"
-  },
-  {
-    "Title": "Excellence 7 Blonde Permanent Hårfärg",
-    "Brand": "Excellence 1st",
-    "Price": " 74 90/st",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/05703147063130_C1C1_s01"
-  },
-  {
-    "Title": "Duokaka Sylt Och Vanilj",
-    "Brand": "Eldorado 176g",
+    "Title": "Bomullspads",
+    "Brand": "Mevolution 80st",
     "Price": "2 för 25 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083446733_C1N1_s02"
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083489228_C1N1_s02"
   },
   {
-    "Title": "Snabbnudlar Svamp",
-    "Brand": "Eldorado 85g",
-    "Price": "10 för 45 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083450488_C1N1_s01"
+    "Title": "Falukorv",
+    "Brand": "Rybergs 900g",
+    "Price": "Spara 12,00 kr/st 49 90/st",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07350014542298_C1N1_s01"
+  },
+  {
+    "Title": "Havredryck Vegetabilisk 1,5%",
+    "Brand": "Garant 1l",
+    "Price": "6 för 85 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083483981_C1N1_s02"
   },
   {
     "Title": "Jordgubb Banan Puré Eko Klämmis Från 6 Månader",
@@ -755,10 +695,34 @@
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/05707312003808_C1C1_s01"
   },
   {
-    "Title": "Falukorv",
-    "Brand": "Rybergs 900g",
-    "Price": "Spara 12,00 kr/st 49 90/st",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07350014542298_C1N1_s01"
+    "Title": "Citron Klass 1",
+    "Brand": "ca150g",
+    "Price": "2 för 12 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07311042000099_C1N0_s01"
+  },
+  {
+    "Title": "Vaniljmunk",
+    "Brand": "Dafgård 63g",
+    "Price": "4 för 30 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07310960722953_C1C0_s01"
+  },
+  {
+    "Title": "Excellence 7 Blonde Permanent Hårfärg",
+    "Brand": "Excellence 1st",
+    "Price": " 74 90/st",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/05703147063130_C1C1_s01"
+  },
+  {
+    "Title": "Potatis Smått&gott Klass 1",
+    "Brand": "Garant 900g",
+    "Price": "2 för 40 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07311042010081_C1L1_s01"
+  },
+  {
+    "Title": "Granola Kakao & Hallon",
+    "Brand": "Färsking 375g",
+    "Price": "Spara 13,00 kr/st 29 90/st",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07350099111136_C1N1_s01"
   },
   {
     "Title": "Jordgubb Drickyoghurt 0,8%",
@@ -773,15 +737,57 @@
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07311441343100_C1L1_s01"
   },
   {
-    "Title": "Matlåda F&g 0,25l",
-    "Brand": "Curver 3p",
-    "Price": "2 för 42 00",
-    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/03253928557089_C1L1_s01"
+    "Title": "Mellanmjök Dryck Laktosfri 1,5%",
+    "Brand": "Falköpings 1l",
+    "Price": "Spara 2,60 kr/st 15 90/st",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07393061022283_C1L1_s01"
+  },
+  {
+    "Title": "Baby Dry 3 6-10kg Tejpblöjor",
+    "Brand": "Pampers 54p",
+    "Price": "Handla för 300 kr 105 00/st",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/08006540466575_C1N1_s01"
+  },
+  {
+    "Title": "Almond Crunch Nut Bar",
+    "Brand": "Nick´s 40g",
+    "Price": "2 för 28 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07350104401115_C1N1_s02"
+  },
+  {
+    "Title": "Makrillfilé Varmrökt Svart Peppar",
+    "Brand": "Falkenberg 180g",
+    "Price": "Spara 7,00 kr/st 32 90/st",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083493287_C1N1_s01"
+  },
+  {
+    "Title": "Matjessill Filéer i Bitar",
+    "Brand": "Eldorado 200/125g",
+    "Price": "3 för 35 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083492983_C1N1_s01"
   },
   {
     "Title": "Up&go 4 7-11kg Byxblöjor",
     "Brand": "Libero 42p",
     "Price": "Handla för 300 kr 109 00/st",
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07322541742243_C1C1_s02"
+  },
+  {
+    "Title": "Premium 3 Protection 6-10kg Tejpblöjor",
+    "Brand": "Pampers 46p",
+    "Price": "Handla för 300 kr 109 00/st",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/08006540704615_C1N1_s01"
+  },
+  {
+    "Title": "Paté Kyckling Katt",
+    "Brand": "Stella 100g",
+    "Price": "2 för 15 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07350055000078_C1N1_s01"
+  },
+  {
+    "Title": "Croissant",
+    "Brand": "Dafgård 55g",
+    "Price": "4 för 26 00",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07310960788058_C1N0_s01"
   }
 ]

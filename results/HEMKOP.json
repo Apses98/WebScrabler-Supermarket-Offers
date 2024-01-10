@@ -1,7 +1,7 @@
 [
   {
     "StoreName": "Hemköp",
-    "TimeDate": "2024-01-09 18:56:13",
+    "TimeDate": "2024-01-10 08:30:09",
     "StoreUrl": "https://www.hemkop.se/erbjudanden"
   },
   {
@@ -759,6 +759,12 @@
     "Brand": "",
     "Price": "29,95   /st",
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/08710449936106_C1N1_s03"
+  },
+  {
+    "Title": "Leverpastej Original Bredbar",
+    "Brand": "",
+    "Price": "11,95   /st",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083492129_C1L1_s01"
   },
   {
     "Title": "Köttbullar Kyckling",
@@ -1587,6 +1593,12 @@
     "Brand": "",
     "Price": "2 för 55  ",
     "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083405679_C1L1_s02"
+  },
+  {
+    "Title": "Dill Finhackad Fryst",
+    "Brand": "",
+    "Price": "2 för 22  ",
+    "Image_URL": "https://assets.axfood.se/image/upload/f_auto,t_200/07340083490507_C1L1_s01"
   },
   {
     "Title": "Broccoliris Finhackad Fryst",

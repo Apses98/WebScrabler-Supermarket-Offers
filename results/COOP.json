@@ -1,0 +1,3121 @@
+[
+  {
+    "StoreName": "COOP",
+    "TimeDate": "2024-01-10 08:31:09",
+    "StoreUrl": "https://www.coop.se/handla/aktuella-erbjudanden/"
+  },
+  {
+    "Title": "Morötter 1 Kg Eko",
+    "Brand": "Änglamark. Klass 1. Sverige.",
+    "Price": " 15 90/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1537172233/350348/Mor%C3%B6tter%201%20Kg%20Eko.jpg"
+  },
+  {
+    "Title": "Keso Cottage cheese Naturell",
+    "Brand": "KESO®.",
+    "Price": "1 för 19 90",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1652703161/cloud/252149/Keso%20Cottage%20cheese%20Naturell.jpg"
+  },
+  {
+    "Title": "Sköljmedel Frukt, trädgård & värme",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1576668239/387723/Sk%C3%B6ljmedel%20Frukt%2C%20tr%C3%A4dg%C3%A5rd%20%26%20v%C3%A4rme.jpg"
+  },
+  {
+    "Title": "Sköljmedel Vind",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1634219962/cloud/184211/Sk%C3%B6ljmedel%20Vind.jpg"
+  },
+  {
+    "Title": "Pastasås Arrabbiata",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1589539820/399915/Pastas%C3%A5s%20Arrabbiata.jpg"
+  },
+  {
+    "Title": "Laxfilé 4-pack",
+    "Brand": "Xtra.",
+    "Price": " 90 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1627891997/cloud/231549/Laxfil%C3%A9%204-pack%20.jpg"
+  },
+  {
+    "Title": "Lätt Kvarg Vanilj",
+    "Brand": "COOP.",
+    "Price": " 20 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1625674736/cloud/144450/L%C3%A4tt%20Kvarg%20Vanilj%20.jpg"
+  },
+  {
+    "Title": "Drickyoghurt Persika & Mango",
+    "Brand": "Xtra.",
+    "Price": " 10 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1607593848/414466/Drickyoghurt%20Persika%20%26%20Mango.jpg"
+  },
+  {
+    "Title": "Drickyoghurt Skogsbär",
+    "Brand": "Xtra.",
+    "Price": " 10 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1603177238/410289/Drickyoghurt%20Skogsb%C3%A4r.jpg"
+  },
+  {
+    "Title": "Drickyoghurt Jordgubb",
+    "Brand": "Xtra.",
+    "Price": " 10 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1603177226/410288/Drickyoghurt%20Jordgubb.jpg"
+  },
+  {
+    "Title": "Paj Tacofärs",
+    "Brand": "Coop.",
+    "Price": " 19 90/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1623146060/227925/Paj%20Tacof%C3%A4rs.jpg"
+  },
+  {
+    "Title": "Paj Ost & Skinka",
+    "Brand": "Coop.",
+    "Price": " 19 90/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1623146048/227924/Paj%20Ost%20%26%20Skinka.jpg"
+  },
+  {
+    "Title": "Krossade tomater",
+    "Brand": "Coop.",
+    "Price": " 10 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tomater Krossade Chili",
+    "Brand": "Coop.",
+    "Price": " 10 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Krossade tomater Vitlök",
+    "Brand": "Coop.",
+    "Price": " 10 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ledlampa Döskalle Blå",
+    "Brand": "Rawlink.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ledlampa Snöflinga Blå",
+    "Brand": "Rawlink.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ledlampa Snöflinga Rosa",
+    "Brand": "Rawlink.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ledlampa Snöflinga Svart",
+    "Brand": "Rawlink.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Smör Normalsaltat",
+    "Brand": "Svenskt Smör från Arla.",
+    "Price": "1 för 39 90",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kyckling Hel",
+    "Brand": "Guldfågeln.",
+    "Price": " 29 90/kg",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Mjölkchoklad",
+    "Brand": "Marabou.",
+    "Price": "2 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tortillabröd M 8-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kokosmjölk",
+    "Brand": "Xtra.",
+    "Price": "2 för 20:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Krossade tomater Eko",
+    "Brand": "Änglamark.",
+    "Price": "2 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lingongrova",
+    "Brand": "Pågen.",
+    "Price": "1 för 20:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Keso Cottage Cheese Naturell Mini",
+    "Brand": "KESO®.",
+    "Price": "1 för 19 90",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Broccoli",
+    "Brand": "Klass 1. Spanien.",
+    "Price": "2 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kebabsås Vitlök",
+    "Brand": "Schysst Käk.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Rökt Emilskinka",
+    "Brand": "Pärsons.",
+    "Price": "2 för 40:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Middagskorv Vardagsbra",
+    "Brand": "Lithells.",
+    "Price": "1 för 20:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Laktosfri Mellanmjölk",
+    "Brand": "Coop.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Rismellis Jordgubb",
+    "Brand": "Xtra.",
+    "Price": "3 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Rågsnacks Sourcream & onion Eko",
+    "Brand": "Coop.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kolasnäckor",
+    "Brand": "COOP.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kanelsnäckor",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Badrumsspray",
+    "Brand": "Änglamark.",
+    "Price": " 25 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Mozzarella",
+    "Brand": "Xtra.",
+    "Price": " 10 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pastasås Basilika",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pastasås Verdure",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Wienerkorv",
+    "Brand": "Coop.",
+    "Price": " 25 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pastasås Basilika & Vitlök",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pastasås Verdure",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Cashewnötter Eko",
+    "Brand": "Änglamark.",
+    "Price": " 25 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Riven Ost Pizzatopping",
+    "Brand": "Xtra.",
+    "Price": " 40 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Riven Ost",
+    "Brand": "Xtra.",
+    "Price": " 40 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Grytbas Panang Curry",
+    "Brand": "Coop.",
+    "Price": " 30 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Grytbas Grön Curry",
+    "Brand": "Coop.",
+    "Price": " 30 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Grytbas Röd Curry",
+    "Brand": "Coop.",
+    "Price": " 30 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1540233455/353001/Grytbas%20R%C3%B6d%20Curry%20.jpg"
+  },
+  {
+    "Title": "Pastasås Vitlök",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1619508710/427888/Pastas%C3%A5s%20Vitl%C3%B6k.jpg"
+  },
+  {
+    "Title": "Pastasås Classico",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1589539786/399912/Pastas%C3%A5s%20Classico.jpg"
+  },
+  {
+    "Title": "Nyponsoppa",
+    "Brand": "Coop.",
+    "Price": " 10 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1632559844/cloud/234937/Nyponsoppa.jpg"
+  },
+  {
+    "Title": "Yoghurt Turkisk",
+    "Brand": "Coop.",
+    "Price": " 15 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1615810636/424867/Yoghurt%20Turkisk.jpg"
+  },
+  {
+    "Title": "Snabbhavregryn Eko",
+    "Brand": "Änglamark.",
+    "Price": " 15 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1589458571/399656/Snabbhavregryn%20Eko.jpg"
+  },
+  {
+    "Title": "Croissanter 6-pack",
+    "Brand": "Coop.",
+    "Price": " 30 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1638961582/cloud/207277/Croissanter%206-pack.jpg"
+  },
+  {
+    "Title": "Kycklingnuggets",
+    "Brand": "Xtra.",
+    "Price": " 45 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1573722060/385524/Kycklingnuggets.jpg"
+  },
+  {
+    "Title": "Lätt Kvarg Jordgubb & hallon",
+    "Brand": "COOP.",
+    "Price": " 20 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1529356030/300690/L%C3%A4tt%20Kvarg%20Jordgubb%20%26%20hallon.jpg"
+  },
+  {
+    "Title": "Lätt Kvarg Ananas & passionsfrukt",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1631005573/cloud/233523/L%C3%A4tt%20Kvarg%20Ananas%20%26%20passionsfrukt%20.jpg"
+  },
+  {
+    "Title": "Baguetter Örtsmör 2-pack",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1603177407/410295/Baguetter%20%C3%96rtsm%C3%B6r%202-pack.jpg"
+  },
+  {
+    "Title": "Baguetter Vitlökssmör 2-pack",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1624293211/205509/Baguetter%20Vitl%C3%B6kssm%C3%B6r%202-pack.jpg"
+  },
+  {
+    "Title": "Handtvål Doft Blå Refill",
+    "Brand": "COOP.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Handtvål Doft Rosa Refill",
+    "Brand": "COOP.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Handtvål Doft Grön Refill",
+    "Brand": "COOP.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Blåbär",
+    "Brand": "Xtra.",
+    "Price": " 30 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Makrillfiléer 3-pack",
+    "Brand": "Coop.",
+    "Price": " 40 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Vegofärs Formbar",
+    "Brand": "Coop.",
+    "Price": " 50 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kycklingfärs",
+    "Brand": "COOP.",
+    "Price": " 40 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Hamburgerbröd Brioche 4-pack",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Munskölj Strong mint",
+    "Brand": "Coop.",
+    "Price": " 35 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Munskölj Junior",
+    "Brand": "Coop.",
+    "Price": " 35 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Rågglädje",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fläskkotlett",
+    "Brand": "Coop.",
+    "Price": " 45 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Toast Eko",
+    "Brand": "Coop.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Köksspray",
+    "Brand": "Änglamark.",
+    "Price": " 25 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fönsterspray",
+    "Brand": "Änglamark.",
+    "Price": " 25 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Parmigiano Reggiano Eko",
+    "Brand": "Änglamark.",
+    "Price": " 55 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Chèvre",
+    "Brand": "Coop.",
+    "Price": " 30 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tortellini Ricotta & spenat",
+    "Brand": "Xtra.",
+    "Price": " 35 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Rimmat Fläsklägg",
+    "Brand": "Coop.",
+    "Price": " 45 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fläsksida",
+    "Brand": "Coop.",
+    "Price": " 45 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Grytbitar av Fläsk",
+    "Brand": "Coop.",
+    "Price": " 45 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Morötter",
+    "Brand": "Klass 1. Sverige.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Krossade tomater Örter",
+    "Brand": "Coop.",
+    "Price": " 10 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tomater Passerade",
+    "Brand": "Coop.",
+    "Price": " 10 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Falafel Klassisk",
+    "Brand": "Schysst käk.",
+    "Price": " 39 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Clementiner",
+    "Brand": "Coop. Klass 1. Spanien.",
+    "Price": " 30 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kebab Vego",
+    "Brand": "Schysst käk.",
+    "Price": " 39 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Gårdsgoda Mellan",
+    "Brand": "Valio.",
+    "Price": " 44 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Potatis Fast",
+    "Brand": "Klass 1. Sverige.",
+    "Price": " 12 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Paj Ost & sparris",
+    "Brand": "COOP.",
+    "Price": " 19 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Paj Kyckling & bacon",
+    "Brand": "Coop.",
+    "Price": " 19 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Paj Ost & broccoli",
+    "Brand": "Coop.",
+    "Price": " 19 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Gårdsgoda Normalsaltat",
+    "Brand": "Valio.",
+    "Price": " 44 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Gyroskebab",
+    "Brand": "Schysst käk.",
+    "Price": " 39 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kycklingkebab",
+    "Brand": "Schysst käk.",
+    "Price": " 39 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kebab Klassisk",
+    "Brand": "Schysst käk.",
+    "Price": " 39 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Potatis Mjölig",
+    "Brand": "Coop. Klass 1. Sverige.",
+    "Price": " 12 90/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1697625379/cloud/293089/Potatis%20Mj%C3%B6lig.jpg"
+  },
+  {
+    "Title": "Tomat Plommon 500Gr",
+    "Brand": "Klass 1. Spanien.",
+    "Price": " 25 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1443431786/48777/Tomat%20Plommon%20500Gr.jpg"
+  },
+  {
+    "Title": "Apelsiner Navel",
+    "Brand": "Klass 1. Spanien.",
+    "Price": " 19 90/kg",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1581926330/393481/Apelsiner%20Navel.jpg"
+  },
+  {
+    "Title": "Päron Conference",
+    "Brand": "Klass 1. Nederländerna.",
+    "Price": " 29 90/kg",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1440062428/49576/P%C3%A4ron%20Conference.jpg"
+  },
+  {
+    "Title": "Oxpytt",
+    "Brand": "Coop.",
+    "Price": " 44 90/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1599477484/406828/Oxpytt.jpg"
+  },
+  {
+    "Title": "Paprika Snack Röd",
+    "Brand": "Klass 1. Spanien.",
+    "Price": " 20 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1625576251/cloud/230499/Paprika%20Snack%20R%C3%B6d.jpg"
+  },
+  {
+    "Title": "Felt Slipper Dam Stl 38",
+    "Brand": "EXANI.",
+    "Price": " 249 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1696925553/cloud/292611/Felt%20Slipper%20Dam%20Stl%2038.jpg"
+  },
+  {
+    "Title": "Felt Slipper Herr Stl 41",
+    "Brand": "EXANI.",
+    "Price": " 249 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1696927481/cloud/292665/Felt%20Slipper%20Herr%20Stl%2041.jpg"
+  },
+  {
+    "Title": "Fågelfoderhus",
+    "Brand": "GROUW.",
+    "Price": " 49 50/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1660831369/cloud/256911/F%C3%A5gelfoderhus.jpg"
+  },
+  {
+    "Title": "Barnkvast",
+    "Brand": "Prosperplast.",
+    "Price": " 39 50/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1473329904/161980/Barnkvast.jpg"
+  },
+  {
+    "Title": "Reflexclips 2-pack",
+    "Brand": "Rawlink.",
+    "Price": " 24 95/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1684334325/cloud/281007/Reflexclips%202-pack.jpg"
+  },
+  {
+    "Title": "Reflex Clips",
+    "Brand": "Rawlink.",
+    "Price": " 24 95/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1626179208/cloud/231042/Reflex%20Clips.jpg"
+  },
+  {
+    "Title": "Rävstugan",
+    "Brand": "LEGO.",
+    "Price": " 124 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Broddar Stl 43-47 2-pack",
+    "Brand": "Swedpro.",
+    "Price": " 44 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Girlang Guldblad",
+    "Brand": "",
+    "Price": " 49 98/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Krans Guldblad",
+    "Brand": "",
+    "Price": " 34 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bäddset Blommor",
+    "Brand": "",
+    "Price": " 99 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pläd Check",
+    "Brand": "",
+    "Price": " 99 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Skinnhandskar Herr",
+    "Brand": "EXANI.",
+    "Price": " 174 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Skinnhandskar Dam",
+    "Brand": "EXANI.",
+    "Price": " 174 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Skinnhandskar Dam",
+    "Brand": "EXANI.",
+    "Price": " 174 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Matlåda",
+    "Brand": "Coop.",
+    "Price": " 49 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pannlampa Uppladdningsbar",
+    "Brand": "",
+    "Price": " 89 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bil Radiostyrd",
+    "Brand": "Dickie Toys.",
+    "Price": " 189 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Mössa Med Ledlampa",
+    "Brand": "",
+    "Price": " 49 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Gryta",
+    "Brand": "Kitchenaid.",
+    "Price": " 649 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Stekpanna",
+    "Brand": "Kitchenaid.",
+    "Price": " 399 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Stekpanneskydd 2-pack",
+    "Brand": "Kitchenaid.",
+    "Price": " 74 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Grillpanna",
+    "Brand": "Kitchenaid.",
+    "Price": " 749 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Stekpanna",
+    "Brand": "Kitchenaid.",
+    "Price": " 349 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Traktörpanna",
+    "Brand": "Kitchenaid.",
+    "Price": " 699 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Köksredskap 2-pack",
+    "Brand": "Kitchenaid.",
+    "Price": " 164 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Nocco",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bryggkaffe Blond Ljusrost",
+    "Brand": "Arvid Nordquist Selection.",
+    "Price": " 65 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Nocco Nyhet 2023",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Nocco Juicy Melba",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Alkoholfri öl 6-pack",
+    "Brand": "Heineken.",
+    "Price": " 49 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Nocco Black orange",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Roman Sallat",
+    "Brand": "Klass 1. Spanien.",
+    "Price": " 17 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "7391961111847",
+    "Brand": "Spira blommor.",
+    "Price": " 119 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pepparsalami",
+    "Brand": "Göl.",
+    "Price": " 22 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Salami Dansk",
+    "Brand": "Göl.",
+    "Price": " 22 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Salami Vitlök",
+    "Brand": "GØL.",
+    "Price": " 22 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Salami Pepperoni",
+    "Brand": "Göl.",
+    "Price": " 22 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Olivmix Grekisk Urkärnade Eko",
+    "Brand": "Zeta.",
+    "Price": " 28 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Oliver Halkidiki Urkärnade Eko",
+    "Brand": "Zeta.",
+    "Price": " 28 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Oliver Kalamata Urkärnade Eko",
+    "Brand": "Zeta.",
+    "Price": " 28 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Nocco Cola",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Nocco Päron",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1692365552/cloud/288038/Energidryck%20Nocco%20P%C3%A4ron.jpg"
+  },
+  {
+    "Title": "Energidryck Nocco Caribbean",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1692363447/cloud/288032/Energidryck%20Nocco%20Caribbean.jpg"
+  },
+  {
+    "Title": "Kycklinginnerfilé",
+    "Brand": "Kronfågel.",
+    "Price": " 69 90/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1621926252/429604/Kycklinginnerfil%C3%A9.jpg"
+  },
+  {
+    "Title": "Bryggkaffe Extra Mörkrost Amigas Eko",
+    "Brand": "Arvid Nordquist Selection.",
+    "Price": " 65 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1676888010/cloud/274479/Bryggkaffe%20Extra%20M%C3%B6rkrost%20Amigas%20Eko.jpg"
+  },
+  {
+    "Title": "Bryggkaffe Mellanrost Solid Eko",
+    "Brand": "Arvid Nordquist Selection.",
+    "Price": " 65 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1676902201/cloud/274570/Bryggkaffe%20Mellanrost%20Solid%20Eko.jpg"
+  },
+  {
+    "Title": "Bryggkaffe Mörkrost Reko Eko",
+    "Brand": "Arvid Nordquist Selection.",
+    "Price": " 65 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1676901666/cloud/274543/Bryggkaffe%20M%C3%B6rkrost%20Reko%20Eko.jpg"
+  },
+  {
+    "Title": "Bryggkaffe Mellanmörkrost Eko",
+    "Brand": "Arvid Nordquist Selection.",
+    "Price": " 65 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1676905124/cloud/274638/Bryggkaffe%20Mellanm%C3%B6rkrost%20Eko.jpg"
+  },
+  {
+    "Title": "Fläskstek av bog",
+    "Brand": "COOP.",
+    "Price": " 62 90/kg",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1666870881/cloud/262941/Fl%C3%A4skstek%20av%20bog.jpg"
+  },
+  {
+    "Title": "Rödkål",
+    "Brand": "Klass 1. Tyskland.",
+    "Price": " 14 90/kg",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1440063093/49677/R%C3%B6dk%C3%A5l.jpg"
+  },
+  {
+    "Title": "Serrano",
+    "Brand": "Valent.",
+    "Price": " 299 00/kg",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1657871503/cloud/255800/Serrano.jpg"
+  },
+  {
+    "Title": "Hushållsost",
+    "Brand": "Xtra.",
+    "Price": " 89 00/kg",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1582721712/394561/Hush%C3%A5llsost.jpg"
+  },
+  {
+    "Title": "Blandfärs 20%",
+    "Brand": "John's Selection.",
+    "Price": " 44 90/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1619695879/428272/Blandf%C3%A4rs%2020%25.jpg"
+  },
+  {
+    "Title": "Energidryck Nocco Limón",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Gratängost Riven",
+    "Brand": "COOP.",
+    "Price": " 55 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Alkoholfri öl Ship Full of IPA 6-pack",
+    "Brand": "Brutal Brewing.",
+    "Price": " 49 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Nocco Mango",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Nocco Blood Orange",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Nocco Ramonade",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Nocco Juicy Breeze",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Nocco Sunny Soda",
+    "Brand": "NOCCO.",
+    "Price": " 15 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pannkakskiosk",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Glasskiosk",
+    "Brand": "LEGO.",
+    "Price": " 449 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Rymdskepp Star Wars",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Hästträning",
+    "Brand": "LEGO.",
+    "Price": " 221 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Strandbuggy",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Alkoholfri öl Lager 0.5%",
+    "Brand": "Mariestads.",
+    "Price": "3 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Alkoholfri cider Fläder 0.5%",
+    "Brand": "Briska.",
+    "Price": "3 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Cider Äpple 0.30%",
+    "Brand": "Kiviks.",
+    "Price": "2 för 40:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Coca-Cola Zero",
+    "Brand": "Coca-Cola zero.",
+    "Price": "2 för 37:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Citron",
+    "Brand": "Klass 1. Spanien.",
+    "Price": " 5 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lime",
+    "Brand": "Klass 1. Brasilien.",
+    "Price": " 5 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kiwi Eko",
+    "Brand": "Klass 1. Italien.",
+    "Price": " 5 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kulörtvättmedel Flytande",
+    "Brand": "A+.",
+    "Price": " 79 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Vittvättmedel Flytande",
+    "Brand": "A+.",
+    "Price": " 79 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Coca-Cola Zero 20-pack",
+    "Brand": "Coca-Cola zero.",
+    "Price": " 89 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Coca-Cola 20-pack",
+    "Brand": "Coca-Cola.",
+    "Price": " 89 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Nötmix Honung & Salt",
+    "Brand": "Estrella.",
+    "Price": " 25 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Nötmix Klassisk",
+    "Brand": "Estrella.",
+    "Price": " 25 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Nötmix Honung & Salt Mandel",
+    "Brand": "Estrella.",
+    "Price": " 25 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lindor Stick Salted Caramel",
+    "Brand": "Lindt.",
+    "Price": " 10 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tutti Frutti Original",
+    "Brand": "Fazer.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tutti Frutti Original",
+    "Brand": "Fazer.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tutti Frutti Mix",
+    "Brand": "Fazer.",
+    "Price": " 20 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lindor Mjölkchoklad Stick",
+    "Brand": "Lindt.",
+    "Price": " 10 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lindor Stick Orange",
+    "Brand": "Lindt.",
+    "Price": " 10 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tenoo Jedi Temple",
+    "Brand": "LEGO.",
+    "Price": " 323 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Black Widows & Captain Americas motorcyklar",
+    "Brand": "LEGO.",
+    "Price": " 107 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kejserlig drakjägarbest",
+    "Brand": "LEGO.",
+    "Price": " 149 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kais & Ras bil- och motorcykelstrid",
+    "Brand": "LEGO.",
+    "Price": " 149 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1686772299/cloud/282501/Kais%20%26%20Ras%20bil-%20och%20motorcykelstrid.jpg"
+  },
+  {
+    "Title": "Nyas spinjitzudrift med drakkraft",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1686771042/cloud/282480/Nyas%20spinjitzudrift%20med%20drakkraft.jpg"
+  },
+  {
+    "Title": "Polarutforskare & snöskoter",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1686766296/cloud/282370/Polarutforskare%20%26%20sn%C3%B6skoter.jpg"
+  },
+  {
+    "Title": "Sjöräddningsplan",
+    "Brand": "LEGO.",
+    "Price": " 149 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1686767425/cloud/282397/Sj%C3%B6r%C3%A4ddningsplan.jpg"
+  },
+  {
+    "Title": "Magisk enhörning",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1678083929/cloud/276213/Magisk%20enh%C3%B6rning.jpg"
+  },
+  {
+    "Title": "Kais spinjitzuvolt med drakkraft",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1686767416/cloud/282395/Kais%20spinjitzuvolt%20med%20drakkraft.jpg"
+  },
+  {
+    "Title": "Peter Pan och Wendys sagoboksäventyr",
+    "Brand": "LEGO.",
+    "Price": " 149 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1678083971/cloud/276219/Peter%20Pan%20och%20Wendys%20sagoboks%C3%A4ventyr.jpg"
+  },
+  {
+    "Title": "Veteranmotorcykel",
+    "Brand": "LEGO.",
+    "Price": " 107 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1678084256/cloud/276228/Veteranmotorcykel.jpg"
+  },
+  {
+    "Title": "Stuntramp med basketutmaning",
+    "Brand": "LEGO.",
+    "Price": " 149 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1678083016/cloud/276202/Stuntramp%20med%20basketutmaning.jpg"
+  },
+  {
+    "Title": "Växande morot",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1678084269/cloud/276230/V%C3%A4xande%20morot.jpg"
+  },
+  {
+    "Title": "Lloyds ninjamotorcykel",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1671627505/cloud/269931/Lloyds%20ninjamotorcykel.jpg"
+  },
+  {
+    "Title": "Jays blixtjet",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1671627558/cloud/269937/Jays%20blixtjet.jpg"
+  },
+  {
+    "Title": "Bistugan",
+    "Brand": "LEGO.",
+    "Price": " 149 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1671529164/cloud/269758/Bistugan.jpg"
+  },
+  {
+    "Title": "Träskäventyret",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1671529290/cloud/269768/Tr%C3%A4sk%C3%A4ventyret.jpg"
+  },
+  {
+    "Title": "Cyberstuntcykel",
+    "Brand": "LEGO.",
+    "Price": " 59 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1670939690/cloud/269349/Cyberstuntcykel.jpg"
+  },
+  {
+    "Title": "Stuntcykel med björn",
+    "Brand": "LEGO.",
+    "Price": " 59 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1670939659/cloud/269345/Stuntcykel%20med%20bj%C3%B6rn.jpg"
+  },
+  {
+    "Title": "Biljakt med polismotorcykel",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1671026454/cloud/269422/Biljakt%20med%20polismotorcykel.jpg"
+  },
+  {
+    "Title": "Brandstation och brandbil",
+    "Brand": "LEGO.",
+    "Price": " 251 40/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1671031435/cloud/269446/Brandstation%20och%20brandbil.jpg"
+  },
+  {
+    "Title": "Snurrande Rapunzel",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pistmaskin",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lastbil Dumper",
+    "Brand": "LEGO.",
+    "Price": " 59 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Conkdor Super Mario Expansion",
+    "Brand": "LEGO.",
+    "Price": " 107 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Rocket i robotrustning",
+    "Brand": "LEGO.",
+    "Price": " 107 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Thanos i robotrustning",
+    "Brand": "LEGO.",
+    "Price": " 108 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Hulk i robotrustning",
+    "Brand": "LEGO.",
+    "Price": " 107 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Klonsoldater Star Wars",
+    "Brand": "LEGO.",
+    "Price": " 149 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ninjago Kais ninjaracerbil",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lastbil och Grävmaskin",
+    "Brand": "LEGO.",
+    "Price": " 149 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Skoj i badet: flytande röd panda",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Polisbil",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Den Övergivna Gruvan",
+    "Brand": "LEGO.",
+    "Price": " 161 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ninjornas draktempel",
+    "Brand": "LEGO.",
+    "Price": " 299 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Väktarstriden",
+    "Brand": "LEGO.",
+    "Price": " 161 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Minecraft Svamphuset",
+    "Brand": "LEGO.",
+    "Price": " 149 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Annas slottsgård",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Den Förstörda Portalen",
+    "Brand": "LEGO.",
+    "Price": " 221 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lianns rum",
+    "Brand": "LEGO.",
+    "Price": " 149 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Hundräddningscykel",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bubbeltevagn",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Munkbutik",
+    "Brand": "LEGO.",
+    "Price": " 71 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Leos rum",
+    "Brand": "LEGO.",
+    "Price": " 149 40/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Reflexväst Barn",
+    "Brand": "Rawlink.",
+    "Price": "2 för 65:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Dam Knästrumpa 20 Denier Svart One size 5-pack",
+    "Brand": "Softer days.",
+    "Price": " 25% ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bryggkaffe Mellanrost",
+    "Brand": "Löfbergs.",
+    "Price": "2 för 85:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ljusstake",
+    "Brand": "",
+    "Price": " 99 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ljusstake",
+    "Brand": "",
+    "Price": " 89 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ljushållare Trä",
+    "Brand": "East Import.",
+    "Price": " 64 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Mustasch-handske Large",
+    "Brand": "Soft Touch.",
+    "Price": " 44 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Skoställ",
+    "Brand": "DAY.",
+    "Price": " 32 50/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1626261785/cloud/218871/Skost%C3%A4ll.jpg"
+  },
+  {
+    "Title": "Skärbräda",
+    "Brand": "Coop.",
+    "Price": " 99 50/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1646303716/cloud/248435/Sk%C3%A4rbr%C3%A4da.jpg"
+  },
+  {
+    "Title": "Reflex med clips Blå",
+    "Brand": "Rawlink.",
+    "Price": " 9 95/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1659330203/cloud/256231/Reflex%20med%20clips%20Bl%C3%A5.jpg"
+  },
+  {
+    "Title": "Reflextejp",
+    "Brand": "Rawlink.",
+    "Price": " 14 50/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1645039357/cloud/246019/Reflextejp.jpg"
+  },
+  {
+    "Title": "Fleecefilt granat",
+    "Brand": "",
+    "Price": " 24 95/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1701354104/cloud/306214/Fleecefilt%20granat.jpg"
+  },
+  {
+    "Title": "Discokula",
+    "Brand": "Form Living.",
+    "Price": " 89 50/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1632384200/cloud/234163/Discokula.jpg"
+  },
+  {
+    "Title": "Reflexband 2-pack",
+    "Brand": "Rawlink.",
+    "Price": " 19 95/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1684334333/cloud/281009/Reflexband%202-pack.jpg"
+  },
+  {
+    "Title": "Gravlykta Älskad & Saknad",
+    "Brand": "Form Living.",
+    "Price": " 99 50/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1631087400/cloud/205757/Gravlykta%20%C3%84lskad%20%26%20Saknad.jpg"
+  },
+  {
+    "Title": "Gosedjur Sommarskuggan",
+    "Brand": "Sommarskuggan.",
+    "Price": " 94 50/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1641807073/cloud/242685/Gosedjur%20Sommarskuggan.jpg"
+  },
+  {
+    "Title": "Hörlurar In-Ear Typ-C",
+    "Brand": "Saknar varumärke.",
+    "Price": " 54 50/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1633698998/cloud/236101/H%C3%B6rlurar%20In-Ear%20Typ-C.jpg"
+  },
+  {
+    "Title": "Vindruteborste",
+    "Brand": "Swedpro.",
+    "Price": " 19 95/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1608185988/415150/Vindruteborste.jpg"
+  },
+  {
+    "Title": "Grillspade",
+    "Brand": "Weber.",
+    "Price": " 124 50/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1614256071/422257/Grillspade.jpg"
+  },
+  {
+    "Title": "Eldkorg",
+    "Brand": "Dan Grill.",
+    "Price": " 189 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Värmeljushållare Liten",
+    "Brand": "Form Living.",
+    "Price": " 69 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Värmeljushållare Stor",
+    "Brand": "Form Living.",
+    "Price": " 89 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Värmeljushållare Liten",
+    "Brand": "Form Living.",
+    "Price": " 69 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Skolstartsset Sjöjungfru",
+    "Brand": "",
+    "Price": " 49 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Skolstartsset Haj",
+    "Brand": "",
+    "Price": " 49 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Getingfälla",
+    "Brand": "",
+    "Price": " 49 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Korg",
+    "Brand": "",
+    "Price": " 249 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Innetoffla Kim Dam Stl 39",
+    "Brand": "EXANI.",
+    "Price": " 299 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Innetoffla Kim Dam Stl 38",
+    "Brand": "EXANI.",
+    "Price": " 299 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Nötknäckare",
+    "Brand": "Senso Kitchen.",
+    "Price": " 19 95/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kaffetilbehör",
+    "Brand": "MELITTA.",
+    "Price": " 89 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Nötknäckare",
+    "Brand": "GastroMax.",
+    "Price": " 29 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Spritzer-Glas 4-pack",
+    "Brand": "Royal Leerdam.",
+    "Price": " 84 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Reflex Nyckelring Tassel",
+    "Brand": "Rawlink.",
+    "Price": " 19 95/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Reflex Dino",
+    "Brand": "Rawlink.",
+    "Price": " 9 95/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Smörgåsjärn",
+    "Brand": "",
+    "Price": " 149 50/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bordstablett Rund 2-pack",
+    "Brand": "",
+    "Price": " 39 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bordstablett Antrasit 2-pack",
+    "Brand": "",
+    "Price": " 39 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Stekpanna Quick & easy",
+    "Brand": "Tefal.",
+    "Price": " 349 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Senapssill",
+    "Brand": "Coop.",
+    "Price": "2 för 38:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Daim Dubbel",
+    "Brand": "Daim.",
+    "Price": "2 för 15:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "DVD Boss Baby",
+    "Brand": "MUSIKSERVICE.",
+    "Price": "2 för 99:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Björkved Säck",
+    "Brand": "Målmarks.",
+    "Price": "2 för 179:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Braständare Böjbar",
+    "Brand": "UGAS.",
+    "Price": "2 för 49:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Blomjord",
+    "Brand": "Änglamark.",
+    "Price": "2 för 79:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tändpåsar Burner",
+    "Brand": "Burner.",
+    "Price": "2 för 149:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Matlåda 1,1 liter",
+    "Brand": "COOP.",
+    "Price": "3 för 49:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kolsyrat vatten Granatäpple & Lime",
+    "Brand": "Coop.",
+    "Price": "3 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Klämmis Äpple, banan & mango 6 Mån Eko",
+    "Brand": "Änglamark.",
+    "Price": "3 för 26:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pizza X-Tra Allt Calzone",
+    "Brand": "GRANDIOSA.",
+    "Price": "3 för 59:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Hallonsoda",
+    "Brand": "Coop.",
+    "Price": "3 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Dill Eko",
+    "Brand": "Änglamark.",
+    "Price": "3 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Alkoholfri cider Sparkling Rosé",
+    "Brand": "Somersby.",
+    "Price": "3 för 34:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Diskborste",
+    "Brand": "Coop.",
+    "Price": "3 för 29:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Coca-Cola Zero",
+    "Brand": "Coca-Cola zero.",
+    "Price": "3 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Servetter Eucalyptus",
+    "Brand": "PAPSTAR.",
+    "Price": "2 för 39:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1642896966/cloud/183422/Servetter%20Eucalyptus.jpg"
+  },
+  {
+    "Title": "Hundgodis Denta Chewing Sticks",
+    "Brand": "Coop.",
+    "Price": "2 för 46:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1593676556/402714/Hundgodis%20Denta%20Chewing%20Sticks.jpg"
+  },
+  {
+    "Title": "Kattsnacks Lax",
+    "Brand": "Coop.",
+    "Price": "2 för 26:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1617902814/426844/Kattsnacks%20Lax.jpg"
+  },
+  {
+    "Title": "Kulörtvättmedel Sensitive",
+    "Brand": "Coop.",
+    "Price": "2 för 49:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1647137181/cloud/218609/Kul%C3%B6rtv%C3%A4ttmedel%20Sensitive.jpg"
+  },
+  {
+    "Title": "Städservetter Citron",
+    "Brand": "Coop.",
+    "Price": "2 för 35:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1669979758/cloud/268340/St%C3%A4dservetter%20Citron.jpg"
+  },
+  {
+    "Title": "Majssnacks Morot & äpple Eko",
+    "Brand": "Änglamark.",
+    "Price": "3 för 26:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1680616459/cloud/278727/Majssnacks%20Morot%20%26%20%C3%A4pple%20Eko.jpg"
+  },
+  {
+    "Title": "Alkoholfritt öl Pilsner 0.5%",
+    "Brand": "Staropramen.",
+    "Price": "3 för 35:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1628418670/cloud/128540/Alkoholfritt%20%C3%B6l%20Pilsner%200.5%25.jpg"
+  },
+  {
+    "Title": "Kaffekapslar Espresso Lungo Profondo 10-pack",
+    "Brand": "L'Or.",
+    "Price": "4 för 125:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1693397489/cloud/288562/Kaffekapslar%20Espresso%20Lungo%20Profondo%2010-pack.jpg"
+  },
+  {
+    "Title": "Shake Rich chocolate",
+    "Brand": "Nutrilett.",
+    "Price": "2 för 45:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1662570797/cloud/258442/Shake%20Rich%20chocolate.jpg"
+  },
+  {
+    "Title": "Dusch Coco Shea",
+    "Brand": "Family Fresh.",
+    "Price": "2 för 39:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1569196647/382664/Dusch%20Coco%20Shea.jpg"
+  },
+  {
+    "Title": "Diskduk Torr 4-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 30:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1644310745/cloud/244406/Diskduk%20Torr%204-pack.jpg"
+  },
+  {
+    "Title": "Diskduk Classic 4-pack",
+    "Brand": "WETTEX.",
+    "Price": "2 för 36:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1591616900/401130/Diskduk%20Classic%204-pack.jpg"
+  },
+  {
+    "Title": "Jordnötter Torrostade & kryddade",
+    "Brand": "Coop.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Chokladkaka Mjölkchoklad",
+    "Brand": "Fazer.",
+    "Price": "2 för 38:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tacosås Medium",
+    "Brand": "Coop.",
+    "Price": "2 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Handdiskmedel",
+    "Brand": "Änglamark.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Hundbajspåse",
+    "Brand": "Coop.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Min Frukt Smoothie Äpple, banan & jordgubb 6 Mån",
+    "Brand": "NESTLÉ.",
+    "Price": "5 för 55:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kattmat Kyckling i sås",
+    "Brand": "Gourmet Perle.",
+    "Price": "4 för 32:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kaffekapslar Mollbergs Blandning 16-pack",
+    "Brand": "Dolce Gusto.",
+    "Price": "3 för 175:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Gummihandskar Medium",
+    "Brand": "Coop.",
+    "Price": "2 för 28:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Alkoholfri öl Pilsner 0.5% Eko",
+    "Brand": "Carlsberg.",
+    "Price": "3 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kaffekapslar Rossa 10-pack",
+    "Brand": "Lavazza.",
+    "Price": "3 för 105:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Godis Hallon & Saltlakrits Sockerfri",
+    "Brand": "Wellibites.",
+    "Price": "2 för 40:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Mjölkchoklad",
+    "Brand": "Marabou.",
+    "Price": "3 för 12:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Dumle Original",
+    "Brand": "Fazer.",
+    "Price": "2 för 50:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kexchoklad",
+    "Brand": "Cloetta.",
+    "Price": "2 för 15:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Sportlunch",
+    "Brand": "Cloetta.",
+    "Price": "2 för 24:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Gravljus Älskad & Saknad",
+    "Brand": "Bolsius.",
+    "Price": "2 för 54:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Värmeljus 30-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 59:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Oljeljus 2-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Barnmat Risotto Grönsaker & Kyckling 12 Mån Eko",
+    "Brand": "Änglamark.",
+    "Price": "5 för 55:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kolsyrat vatten Jordgubb & granatäpple",
+    "Brand": "Loka.",
+    "Price": "3 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Alkoholfri öl Ship Full Of Ipa",
+    "Brand": "Brutal Brewing.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Trocadero Zero",
+    "Brand": "Trocadero.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Soda Mix Pepsi Max",
+    "Brand": "Sodastream.",
+    "Price": "2 för 99:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tonic water",
+    "Brand": "Britvic.",
+    "Price": "2 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Läsk Exotic",
+    "Brand": "Harboe.",
+    "Price": "3 för 15:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Alkoholfri Cider Jordgubb 0.2%",
+    "Brand": "Halmstad Crush.",
+    "Price": "2 för 20:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tonic water",
+    "Brand": "Three Hearts.",
+    "Price": "2 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lemonad Citron",
+    "Brand": "Kiviks Musteri.",
+    "Price": "2 för 32:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fruktdryck Päron Eko",
+    "Brand": "SMAKIS.",
+    "Price": "4 för 18:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Cider Päron 0.4%",
+    "Brand": "Herrljunga Cider.",
+    "Price": "2 för 32:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Hallonsoda",
+    "Brand": "Coop.",
+    "Price": "4 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Monster Ultra",
+    "Brand": "MONSTER ENERGY.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Coca-Cola",
+    "Brand": "Coca-Cola.",
+    "Price": "2 för 28:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Energidryck Clean Hallon",
+    "Brand": "Clean drink.",
+    "Price": "2 för 36:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kolsyrat vatten Citrus",
+    "Brand": "Ramlösa.",
+    "Price": "3 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Alkoholfri öl Citron",
+    "Brand": "Pripps Radler.",
+    "Price": "2 för 26:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1633244294/cloud/219687/Alkoholfri%20%C3%B6l%20Citron%20.jpg"
+  },
+  {
+    "Title": "Festis Apelsin",
+    "Brand": "Festis.",
+    "Price": "2 för 22:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1649418695/cloud/250766/Festis%20Apelsin.jpg"
+  },
+  {
+    "Title": "Alkoholfri öl Nastro Azzurro",
+    "Brand": "Peroni Nastro Azzurro.",
+    "Price": "2 för 25:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1645464308/cloud/247606/Alkoholfri%20%C3%B6l%20Nastro%20Azzurro%20.jpg"
+  },
+  {
+    "Title": "Surimi 8-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 20:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1551223269/362957/Surimi%208-pack.jpg"
+  },
+  {
+    "Title": "Mango",
+    "Brand": "Coop.",
+    "Price": "2 för 34:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1639659607/cloud/227997/Mango.jpg"
+  },
+  {
+    "Title": "Pizza Mozzarella",
+    "Brand": "Coop.",
+    "Price": "2 för 59:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1632319185/cloud/190700/Pizza%20Mozzarella.jpg"
+  },
+  {
+    "Title": "Blåbär Eko",
+    "Brand": "Änglamark.",
+    "Price": "2 för 50:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1634803379/cloud/222340/Bl%C3%A5b%C3%A4r%20Eko.jpg"
+  },
+  {
+    "Title": "Pasta Med Lax & Spenat",
+    "Brand": "Coop.",
+    "Price": "2 för 69:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1610630982/416979/Pasta%20Med%20Lax%20%26%20Spenat.jpg"
+  },
+  {
+    "Title": "Potatiskroketter",
+    "Brand": "Coop.",
+    "Price": "2 för 40:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1579771018/391636/Potatiskroketter.jpg"
+  },
+  {
+    "Title": "Oljeljus",
+    "Brand": "Coop.",
+    "Price": "2 för 35:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1648469226/cloud/250208/Oljeljus.jpg"
+  },
+  {
+    "Title": "Bar Milk chocolate & creamy caramel",
+    "Brand": "Nutrilett.",
+    "Price": "2 för 39:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1662566677/cloud/258404/Bar%20Milk%20chocolate%20%26%20creamy%20caramel.jpg"
+  },
+  {
+    "Title": "Proteinbar Chokladboll",
+    "Brand": "Dalblads.",
+    "Price": "2 för 39:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1698225976/cloud/294765/Proteinbar%20Chokladboll.jpg"
+  },
+  {
+    "Title": "Snabbnudlar Kyckling",
+    "Brand": "Coop.",
+    "Price": "4 för 20:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Champinjoner Skivade",
+    "Brand": "Coop.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fitness Bar Choklad",
+    "Brand": "NESTLÉ.",
+    "Price": "2 för 14:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Oliver Halkidiki Kärnfria",
+    "Brand": "FONTANA.",
+    "Price": "2 för 55:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Citronjuice",
+    "Brand": "Coop.",
+    "Price": "2 för 20:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Sesamkakor",
+    "Brand": "Coop.",
+    "Price": "2 för 10:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tonfiskbitar I Vatten",
+    "Brand": "Coop.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Äggnudlar",
+    "Brand": "COOP.",
+    "Price": "2 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Linsbolognese Italiensk",
+    "Brand": "Zeta.",
+    "Price": "2 för 32:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Hönsbuljong",
+    "Brand": "Coop.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Panko Ströbröd",
+    "Brand": "Coop.",
+    "Price": "2 för 39:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Oliver Gröna Pimento",
+    "Brand": "Figaro.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pasta Fusilli",
+    "Brand": "Coop.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kokosmjölk Eko",
+    "Brand": "Änglamark.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Svenska Havreringar",
+    "Brand": "Frebaco Kvarn.",
+    "Price": "2 för 40:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Blockchoklad Mörk",
+    "Brand": "Coop.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ris Långkornigt",
+    "Brand": "Coop.",
+    "Price": "2 för 59:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pasta Mezze Maniche",
+    "Brand": "Zeta.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ströbröd",
+    "Brand": "Coop.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Spaghetti Eko",
+    "Brand": "Änglamark.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Svarta Bönor",
+    "Brand": "Zeta.",
+    "Price": "2 för 32:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Snacksoliver Vitlök Fyllda",
+    "Brand": "FONTANA.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pasta Conchiglie",
+    "Brand": "Kungsörnen.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Värmeljus 30-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 85:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Gravljus med lock",
+    "Brand": "Coop.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "C-Vitamin Brus Apelsin",
+    "Brand": "COOP.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tandborste Clean Soft",
+    "Brand": "Jordan.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Flytande tvål Äppelblom",
+    "Brand": "Bliw.",
+    "Price": "2 för 39:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Shake Choklad",
+    "Brand": "Naturdiet.",
+    "Price": "2 för 49:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bomullspinnar",
+    "Brand": "Coop.",
+    "Price": "2 för 29:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Smoothie Jordgubb 6 Mån",
+    "Brand": "Semper.",
+    "Price": "5 för 50:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kattgodis Party Mix Original",
+    "Brand": "LATZ.",
+    "Price": "2 för 95:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Toalettpapper 6-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 69:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Hundmat Oxkött & lever",
+    "Brand": "CESAR.",
+    "Price": "4 för 64:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kattmat Classics Kyckling",
+    "Brand": "SHEBA.",
+    "Price": "5 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Våtservetter Baby",
+    "Brand": "Coop.",
+    "Price": "2 för 40:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fryspåsar 3 l",
+    "Brand": "Coop.",
+    "Price": "2 för 30:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1648730755/cloud/250546/Frysp%C3%A5sar%203%20l.jpg"
+  },
+  {
+    "Title": "Svart te Forest Fruit 20-pack",
+    "Brand": "Lipton.",
+    "Price": "2 för 38:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1686818952/cloud/283055/Svart%20te%20Forest%20Fruit%2020-pack.jpg"
+  },
+  {
+    "Title": "Kaffekapslar Lungo Buongiorno",
+    "Brand": "ZOÉGAS.",
+    "Price": "3 för 99:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1671530757/cloud/269791/Kaffekapslar%20Lungo%20Buongiorno.jpg"
+  },
+  {
+    "Title": "Kaffekapslar House Blend Mellanrost 10-pack",
+    "Brand": "STARBUCKS.",
+    "Price": "4 för 155:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1576769049/388919/Kaffekapslar%20House%20Blend%20Mellanrost%2010-pack.jpg"
+  },
+  {
+    "Title": "Dippmix Ranch",
+    "Brand": "OLW.",
+    "Price": "2 för 16:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1474158881/163642/Dippmix%20Ranch.jpg"
+  },
+  {
+    "Title": "Mörk Choklad Eko",
+    "Brand": "Änglamark.",
+    "Price": "2 för 39:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1651055974/cloud/251378/M%C3%B6rk%20Choklad%20Eko.jpg"
+  },
+  {
+    "Title": "Ferrari Salt Hallon",
+    "Brand": "Toms.",
+    "Price": "2 för 25:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1638431463/cloud/200178/Ferrari%20Salt%20Hallon.jpg"
+  },
+  {
+    "Title": "Pingvinstång Mint",
+    "Brand": "Toms.",
+    "Price": "3 för 12:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1578661809/389680/Pingvinst%C3%A5ng%20Mint.jpg"
+  },
+  {
+    "Title": "Marsipanbröd Original",
+    "Brand": "Anthon Berg.",
+    "Price": "2 för 19:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1634650263/cloud/237042/Marsipanbr%C3%B6d%20Original.jpg"
+  },
+  {
+    "Title": "Snickers",
+    "Brand": "SNICKERS.",
+    "Price": "2 för 15:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1667832275/cloud/265892/Snickers.jpg"
+  },
+  {
+    "Title": "Cashewnötter Rostade & Saltade",
+    "Brand": "Coop.",
+    "Price": "2 för 39:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1686819081/cloud/283066/Cashewn%C3%B6tter%20Rostade%20%26%20Saltade.jpg"
+  },
+  {
+    "Title": "Smarties",
+    "Brand": "NESTLÉ.",
+    "Price": "3 för 18:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1630058487/cloud/233059/Smarties.jpg"
+  },
+  {
+    "Title": "Geisha Original",
+    "Brand": "Fazer.",
+    "Price": "2 för 15:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tutti Frutti Original",
+    "Brand": "Fazer.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Zoo",
+    "Brand": "Malaco.",
+    "Price": "2 för 16:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Halstabletter Eucalyptus",
+    "Brand": "Läkerol.",
+    "Price": "2 för 20:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tuggummi Ocean mint",
+    "Brand": "V6.",
+    "Price": "2 för 28:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Mörk Choklad Premium Dark",
+    "Brand": "Marabou.",
+    "Price": "2 för 44:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Havredryck Till Kaffe",
+    "Brand": "Coop.",
+    "Price": "6 för 85:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Havredryck",
+    "Brand": "Coop.",
+    "Price": "6 för 85:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Wienerbröd med vaniljkräm",
+    "Brand": "Bonjour.",
+    "Price": "3 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ciabatta Surdeg",
+    "Brand": "Bonjour.",
+    "Price": "3 för 22:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kaviar",
+    "Brand": "Änglamark.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ansjovisfiléer",
+    "Brand": "Coop.",
+    "Price": "2 för 40:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Citronmuffins Krämfyllda 8-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 49:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Baguette 6-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 28:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Rulltårta Jordgubb",
+    "Brand": "Coop.",
+    "Price": "2 för 49:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Grilloumi",
+    "Brand": "FONTANA.",
+    "Price": "2 för 65:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fetaost Original",
+    "Brand": "FONTANA.",
+    "Price": "2 för 52:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Riven ost Texmex 29%",
+    "Brand": "Arla Köket®.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Mozzarella",
+    "Brand": "Zeta.",
+    "Price": "2 för 32:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Riven ost Tex Mex",
+    "Brand": "Coop.",
+    "Price": "2 för 39:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Buffelmozzarella",
+    "Brand": "Zeta.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Burger Slices Cheddar Skivad",
+    "Brand": "Coop.",
+    "Price": "2 för 52:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Hushållsost Mild Skivad",
+    "Brand": "Coop.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Muffin Citron & Kardemumma",
+    "Brand": "Bonjour.",
+    "Price": "2 för 22:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Mazariner 4-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 38:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Gifflar Kanel",
+    "Brand": "Pågen.",
+    "Price": "2 för 49:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bröd Ost- och Chiaruta",
+    "Brand": "Bonjour.",
+    "Price": "5 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Majskakor Popcorn",
+    "Brand": "Coop.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pitabröd 5-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kolasnittar",
+    "Brand": "Coop.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kanellängd",
+    "Brand": "Bonjour.",
+    "Price": "2 för 50:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Minidonut Pink Multicolorflowers",
+    "Brand": "Bageri La Lorraine.",
+    "Price": "10 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Riskakor Havssalt Eko",
+    "Brand": "Änglamark.",
+    "Price": "2 för 25:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Punschrullar 6-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 32:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Cookies",
+    "Brand": "Coop.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kardemummaskorpor",
+    "Brand": "Coop.",
+    "Price": "2 för 39:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tofu Eko",
+    "Brand": "Änglamark.",
+    "Price": "2 för 39:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1539380809/352560/Tofu%20Eko.jpg"
+  },
+  {
+    "Title": "Leverpastej Bredbar Eko",
+    "Brand": "Änglamark.",
+    "Price": "2 för 35:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1701263171/cloud/305923/Leverpastej%20Bredbar%20Eko.jpg"
+  },
+  {
+    "Title": "Salami Milano",
+    "Brand": "Zeta.",
+    "Price": "2 för 55:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1650373697/cloud/251061/Salami%20Milano.jpg"
+  },
+  {
+    "Title": "Pastasås Mild Ost",
+    "Brand": "Kelda®.",
+    "Price": "2 för 59:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1696417436/cloud/292352/Pastas%C3%A5s%20Mild%20Ost.jpg"
+  },
+  {
+    "Title": "Bredbar Leverpastej Original",
+    "Brand": "Pastejköket.",
+    "Price": "2 för 25:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1662645204/cloud/258503/Bredbar%20Leverpastej%20Original.jpg"
+  },
+  {
+    "Title": "Kycklingköttbullar",
+    "Brand": "Coop.",
+    "Price": "2 för 55:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1530731507/313602/Kycklingk%C3%B6ttbullar.jpg"
+  },
+  {
+    "Title": "Grillkorv Kyckling",
+    "Brand": "Coop.",
+    "Price": "2 för 39:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1530738756/313772/Grillkorv%20Kyckling.jpg"
+  },
+  {
+    "Title": "Chorizo",
+    "Brand": "Coop.",
+    "Price": "2 för 55:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1555496445/370899/Chorizo.jpg"
+  },
+  {
+    "Title": "Grillkorv Skinnfri",
+    "Brand": "Coop.",
+    "Price": "2 för 39:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1637677113/cloud/208015/Grillkorv%20Skinnfri.jpg"
+  },
+  {
+    "Title": "Grillkorv",
+    "Brand": "Coop.",
+    "Price": "2 för 49:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1604571137/411667/Grillkorv%20.jpg"
+  },
+  {
+    "Title": "Skagenröra",
+    "Brand": "Coop.",
+    "Price": "2 för 45:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1701967862/cloud/308008/Skagenr%C3%B6ra.jpg"
+  },
+  {
+    "Title": "Potatisgratäng",
+    "Brand": "Coop.",
+    "Price": "2 för 49:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1661267855/cloud/257291/Potatisgrat%C3%A4ng.jpg"
+  },
+  {
+    "Title": "Rostbiff",
+    "Brand": "Coop.",
+    "Price": "2 för 55:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Skinka Rökt",
+    "Brand": "Coop.",
+    "Price": "2 för 46:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Skinka Rökt",
+    "Brand": "Coop.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ölkorv Vitlök 3-pack",
+    "Brand": "Coop.",
+    "Price": "2 för 49:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Salami Milano",
+    "Brand": "Coop.",
+    "Price": "2 för 49:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lufttorkad Skinka Prosciutto Crudo",
+    "Brand": "Coop.",
+    "Price": "2 för 59:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Sallad Säsongsmix",
+    "Brand": "Coop. Klass 1. Spanien.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Laktosfri Vispgrädde",
+    "Brand": "Valio.",
+    "Price": "2 för 59:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bärdryck Lingon",
+    "Brand": "Coop.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kvarg Vanilj",
+    "Brand": "Lindahls.",
+    "Price": "3 för 27:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Drickyoghurt Jordgubb",
+    "Brand": "Coop.",
+    "Price": "3 för 36:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Juice Äpple Eko",
+    "Brand": "Änglamark.",
+    "Price": "2 för 39:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Juicekoncentrat Apelsin",
+    "Brand": "Coop.",
+    "Price": "3 för 33:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Risifrutti Jordgubb",
+    "Brand": "Risifrutti.",
+    "Price": "5 för 55:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kaffedryck Salted Caramel",
+    "Brand": "Löfbergs.",
+    "Price": "2 för 32:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fruktdryck Koncentrat Päron",
+    "Brand": "Kiviks Musteri.",
+    "Price": "5 för 32:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Juice Apelsin Fruktkött",
+    "Brand": "Coop.",
+    "Price": "2 för 59:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Smoothie Passionsfrukt & Persika",
+    "Brand": "Froosh.",
+    "Price": "2 för 39:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "A-Fil",
+    "Brand": "Coop.",
+    "Price": "2 för 27:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Proteinpudding Chocolate",
+    "Brand": "Ehrmann High Protein.",
+    "Price": "2 för 28:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Yoghurt Jordgubb 4-pack",
+    "Brand": "Activia.",
+    "Price": "2 för 52:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Drickyoghurt Jordgubb",
+    "Brand": "Activia.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Matlagningsgrädde 15%",
+    "Brand": "Kelda®.",
+    "Price": "2 för 22:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Smör & Rapsolja Flytande",
+    "Brand": "Arla Köket®.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Yoghurt Jordgubb & smultron",
+    "Brand": "Coop.",
+    "Price": "2 för 38:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Chokladmjölk Pucko Original",
+    "Brand": "Cocio.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fettuccine",
+    "Brand": "Coop.",
+    "Price": "2 för 30:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Räkor I Lake",
+    "Brand": "Coop.",
+    "Price": "2 för 89:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kaviar",
+    "Brand": "Coop.",
+    "Price": "2 för 44:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Stenbitsrom Röd",
+    "Brand": "Coop.",
+    "Price": "2 för 69:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Prickig Korv",
+    "Brand": "Scan.",
+    "Price": "2 för 29:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pannkakor",
+    "Brand": "Coop.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tortelloni 5 ostar",
+    "Brand": "COOP.",
+    "Price": "2 för 49:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bearnaisesås",
+    "Brand": "Coop.",
+    "Price": "2 för 35:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lykta med LED",
+    "Brand": "Saknar varumärke.",
+    "Price": " 199 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Essential 1740 Winter X-Large",
+    "Brand": "Soft Touch.",
+    "Price": " 49 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Handske Essential 1740 Winter Small",
+    "Brand": "Soft Touch.",
+    "Price": " 49 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1680532290/cloud/278588/Handske%20Essential%201740%20Winter%20Small.jpg"
+  },
+  {
+    "Title": "Essential 1740 Winter XX-Large",
+    "Brand": "Soft Touch.",
+    "Price": " 49 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1639663419/cloud/241540/Essential%201740%20Winter%20XX-Large.jpg"
+  },
+  {
+    "Title": "Essential 1740 Winter Large",
+    "Brand": "Soft Touch.",
+    "Price": " 49 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1639999667/cloud/241626/Essential%201740%20Winter%20Large.jpg"
+  },
+  {
+    "Title": "Snöskyffel",
+    "Brand": "Prosperplast.",
+    "Price": " 129 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1628407108/cloud/70833/Sn%C3%B6skyffel.jpg"
+  },
+  {
+    "Title": "Snöskyffel",
+    "Brand": "Prosperplast.",
+    "Price": " 249 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1473329913/161985/Sn%C3%B6skyffel.jpg"
+  },
+  {
+    "Title": "Massagepistol",
+    "Brand": "Form Living.",
+    "Price": " 249 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1697460932/cloud/292956/Massagepistol.jpg"
+  },
+  {
+    "Title": "Bilspade",
+    "Brand": "Prosperplast.",
+    "Price": " 129 00/st",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1632007716/cloud/70834/Bilspade.jpg"
+  },
+  {
+    "Title": "Kaffebönor Women's Rights Coffee",
+    "Brand": "Eguale.",
+    "Price": "2 för 175:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1617021908/426238/Kaffeb%C3%B6nor%20Women's%20Rights%20Coffee.jpg"
+  },
+  {
+    "Title": "Kaffebönor Mörkrost Mollbergs Blandning",
+    "Brand": "ZOÉGAS.",
+    "Price": "2 för 139:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1687422765/cloud/283887/Kaffeb%C3%B6nor%20M%C3%B6rkrost%20Mollbergs%20Blandning.jpg"
+  },
+  {
+    "Title": "Kaffebönor Mellanmörk Eko",
+    "Brand": "Arvid Nordquist Selection.",
+    "Price": "2 för 135:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1676904690/cloud/274597/Kaffeb%C3%B6nor%20Mellanm%C3%B6rk%20Eko.jpg"
+  },
+  {
+    "Title": "Kaffebönor Mellanrost",
+    "Brand": "GEVALIA.",
+    "Price": "2 för 139:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1581659935/393334/Kaffeb%C3%B6nor%20Mellanrost.jpg"
+  },
+  {
+    "Title": "Kaffebönor Mörkrost Kharisma",
+    "Brand": "Löfbergs.",
+    "Price": "2 för 105:- ",
+    "Image_URL": "//res.cloudinary.com/coopsverige/images/f_auto,fl_clip,fl_progressive,q_auto,c_lpad,g_center,h_120,w_120/v1669907008/cloud/268198/Kaffeb%C3%B6nor%20M%C3%B6rkrost%20Kharisma.jpg"
+  },
+  {
+    "Title": "Solex Sheepskin Slipper Dam Stl 39",
+    "Brand": "EXANI.",
+    "Price": " 399 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Solex Sheepskin Slipper Herr Stl 43",
+    "Brand": "EXANI.",
+    "Price": " 399 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Solex Sheepskin Slipper Dam Stl 37",
+    "Brand": "EXANI.",
+    "Price": " 399 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Ostknivar 2-pack",
+    "Brand": "Coop.",
+    "Price": " 79 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Skärbräda",
+    "Brand": "",
+    "Price": " 99 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fårskinnstoffla Herr Stl 45",
+    "Brand": "EXANI.",
+    "Price": " 399 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fårskinnstoffla Dam Stl 38",
+    "Brand": "EXANI.",
+    "Price": " 399 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Fårskinnstofflor Dam",
+    "Brand": "EXANI.",
+    "Price": " 399 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Kaffepress 1l",
+    "Brand": "Senso Kitchen.",
+    "Price": " 79 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lykta på pinne",
+    "Brand": "",
+    "Price": " 129 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Vedförvaring Falsterbo",
+    "Brand": "Form Living.",
+    "Price": " 299 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Stekhäll Gjutjärn 44x21 cm",
+    "Brand": "Senso Kitchen.",
+    "Price": " 349 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Lykta Välkommen",
+    "Brand": "East Import.",
+    "Price": " 199 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pläd Loui",
+    "Brand": "",
+    "Price": " 79 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pläd Loui",
+    "Brand": "",
+    "Price": " 79 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pläd Loui Mellanbeige",
+    "Brand": "",
+    "Price": " 79 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Pläd Check",
+    "Brand": "(.).",
+    "Price": " 149 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tumvantar Reflex L 6-7 år",
+    "Brand": "EXANI.",
+    "Price": " 159 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Tändblock 100-pack",
+    "Brand": "QUICKFIRE.",
+    "Price": "2 för 79:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Sidenblomma Hortensia",
+    "Brand": "Coop.",
+    "Price": " 39 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Sidenblomma Hortensia",
+    "Brand": "Coop.",
+    "Price": " 39 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Bil Våtservetter För Interiör",
+    "Brand": "East Import.",
+    "Price": "2 för 45:- ",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Korg",
+    "Brand": "",
+    "Price": " 149 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "LED-ljus Dot Grå",
+    "Brand": "Star Trading.",
+    "Price": " 49 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Reflexsele LED",
+    "Brand": "Rawlink.",
+    "Price": " 99 00/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "LED-ljus Dot Vit",
+    "Brand": "Star Trading.",
+    "Price": " 49 90/st",
+    "Image_URL": ""
+  },
+  {
+    "Title": "Nackkudde",
+    "Brand": "",
+    "Price": " 89 00/st",
+    "Image_URL": ""
+  }
+]
